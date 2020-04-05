@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>新冠病毒 on 打雜的碼農</title>
+    <link>https://github.com/yehyoung/COVID19/categories/%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92/</link>
+    <description>Recent content in 新冠病毒 on 打雜的碼農</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 05 Apr 2020 23:22:01 +0800</lastBuildDate>
+    
+	<atom:link href="https://github.com/yehyoung/COVID19/categories/%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>台灣防疫的破口</title>
+      <link>https://github.com/yehyoung/COVID19/posts/taiwanprevent/</link>
+      <pubDate>Sun, 05 Apr 2020 23:22:01 +0800</pubDate>
+      
+      <guid>https://github.com/yehyoung/COVID19/posts/taiwanprevent/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;隔離14天就沒傳染力了嗎?
+&lt;ul&gt;
+&lt;li&gt;這2天新聞，居家檢疫完還要再自主健康管理七天&lt;/li&gt;
+&lt;li&gt;也就是說隔離14天不代表沒傳染力&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
